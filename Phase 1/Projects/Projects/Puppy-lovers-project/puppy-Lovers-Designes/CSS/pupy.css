@@ -1,0 +1,66 @@
+* {
+margin: 0;
+padding: 0;
+max-width: 100%;
+}
+
+header {
+  font-family: "Playwrite PE", cursive;
+  font-optical-sizing: auto;
+  font-weight: 120px;
+  font-style: normal;
+}
+
+header {
+padding-bottom: 27px;
+padding-top: 24px;
+background-color: #0c4f70;
+color: white;
+text-align: center;
+font-size: 40px;
+width: 100%;
+}
+
+.banner {
+margin-bottom: 84px;
+}
+
+.banner div img {
+width: 100%;
+}
+
+.puppies, .more_puppies {
+display: flex;
+width: 960px;
+margin: 0 auto 30px;
+justify-content: space-between;
+}
+
+.puppies img {
+    height: 100%;
+}
+
+
+.puppy2 {
+    text-align: center;
+    background-color: #ee4b64;
+    font-size: 30px;
+    padding: 140px 30px;
+    margin: 0 1%;
+}
+
+.title_puppies{
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+
+footer{
+    padding-top: 99px;
+    padding-bottom: 124px;
+    color: white;
+    background-color: #0c4f70;
+    text-align: center;
+    font-size: 50px;
+}

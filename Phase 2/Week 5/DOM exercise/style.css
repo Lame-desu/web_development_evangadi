@@ -1,0 +1,20 @@
+.section2 {
+  margin: 30px auto;
+}
+
+.section2 * {
+  display: inline-block;
+  margin: 10px;
+}
+
+.form * {
+  margin: 15px auto;
+}
+
+.pinkBackground {
+  background-color: pink;
+}
+
+.invisible {
+  display: none;
+}

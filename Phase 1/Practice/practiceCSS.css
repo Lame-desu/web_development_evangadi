@@ -1,0 +1,19 @@
+#body{
+    background-color: pink;
+    border: 10px dotted red;
+}
+
+p:hover {
+    color: green;
+    border-bottom: 2px solid black;
+}
+
+#vedios {
+    display: inline-block;
+}
+
+#first_video {
+    position: sticky;
+    top: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
